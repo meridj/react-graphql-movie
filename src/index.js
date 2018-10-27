@@ -1,20 +1,21 @@
 // @flow
 
-/**
- * Npm imports
- */
+//
+// ─── NPM IMPORTS ────────────────────────────────────────────────────────────────
+//
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-/**
- * Local imports
- */
+//
+// ─── LOCAL IMPORTS ──────────────────────────────────────────────────────────────
+//
 
 import App from './UI/Scenes/App';
 
-// --------------------------------------
-// Code
+//
+// ─── CODE ───────────────────────────────────────────────────────────────────────
+//
 
 const root: ?Element = document.getElementById('root');
 

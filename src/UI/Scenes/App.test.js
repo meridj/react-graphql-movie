@@ -1,15 +1,15 @@
 // @flow
 
-/**
- * Npm imports
- */
+//
+// ─── NPM IMPORTS ────────────────────────────────────────────────────────────────
+//
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-/**
- * Local imports
- */
+//
+// ─── LOCAL IMPORTS ──────────────────────────────────────────────────────────────
+//
 
 import App from './App';
 
